@@ -34,7 +34,7 @@ Schema del database per un portale di annunci con categorie e revisori.
 
 ## 📎 Link Miro
 Puoi visualizzare gli schemi anche sulla board Miro:
-👉 *Inserisci qui il tuo link Miro pubblico*
+👉 *https://miro.com/app/board/uXjVGnrD4UU=/*
 
 ---
 
